@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        HideItAllSE-mainpage
+// @name        HideItAllSE-Mainpage
 // @namespace   https://jessepf.wordpress.com
 // @description Several rules that hide nearly everything useful and many things useless.
 // @match       *://math.stackexchange.com/
