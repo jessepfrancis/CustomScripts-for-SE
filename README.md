@@ -19,4 +19,4 @@ Aim is to provide a distraction free mainpage/questions page, where there's only
 * Footer is hidden
 * User Profile links incliding Badges from Top Menu.
 
-I started off by tweaking scripts by @NormalHuman.
+I started off by tweaking scripts by @NormalHuman. I will hopefully add more scripts soon and also make the scripts easily customisable.
